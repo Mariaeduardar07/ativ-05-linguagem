@@ -1,0 +1,76 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+/*Vermelho*/
+header {
+    display: flex;
+    width: 100vw;
+}
+
+.red-left {
+    background-color: red;
+    height: 15vh;
+    width: 70%;
+    margin: 1rem 1rem 0 1rem;
+}
+
+.red-right {
+    background-color: red;
+    height: 15vh;
+    width: 30%;
+    margin: 1rem 1rem 0 0;
+}
+
+main {
+    display: flex;
+    width: 100%;
+}
+
+/*Amarelo*/
+.yellow {
+    background-color: rgb(255, 208, 0);
+    height: 60vh;
+    width: 60vw;
+    margin: 1rem 0 1rem 1rem;
+}
+
+/*roxo*/
+.main-dir {
+    width: 40vw;
+}
+
+
+.purple {
+    background-color: rgb(183, 0, 255);
+    height: 29vh;
+    margin:  1rem 1rem;
+}
+
+/*verde*/
+footer {
+    display: flex;
+}
+.left {
+    background-color: rgb(11, 144, 161);
+    height: 18vh;
+    width: 25%;
+    margin: 0 1rem 1rem 1rem;
+}
+
+.middle {
+    background-color: rgb(11, 144, 161);
+    height: 18vh;
+    width: 50%;
+    margin: 0 1rem 1rem 0;
+}
+
+.right {
+    background-color: rgb(11, 144, 161);
+    height: 18vh;
+    width: 25%;
+    margin: 0 1rem 1rem 0;
+}
+
+
